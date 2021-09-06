@@ -3,4 +3,4 @@
 * 分頁
 * 顯示資料數量
 
-[link](https://dobi8422.github.io/tourist-web/)
+連結: https://dobi8422.github.io/travel-web/
